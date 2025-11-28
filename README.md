@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 A little about me
-- I’ve spent a decade working in **product, business analysis & tech** across banking and wealth domains.  
+- I’ve spent a decade working in **product, Business analysis & tech** across banking and wealth domains.  
 - I love building useful things — from internal bank dashboards to side projects for everyday life.  
 - I’m comfortable in both **spreadsheets and Python (pandas/matplotlib)**.  
 - Currently nerding out on **AI + quant finance + data-driven UX**.  
@@ -50,7 +50,7 @@
 ---
 
 ### 📬 Let’s connect
-📎 LinkedIn → <YOUR_LINKEDIN_URL>  
+📎 LinkedIn → <[Sourav D](https://www.linkedin.com/in/sdasguptajr/)>  
 🌐 Portfolio → (coming soon)  
 
 > 💬 Open to chat about fintech, AI in product, and cool side projects.  
